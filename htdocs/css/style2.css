@@ -1,0 +1,30 @@
+.nemanja img{
+    width: 110px;
+    height: 110px;
+    object-fit: cover;
+}
+*{
+    background-color: transparent;
+}
+#user-settings{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+}
+#mini-picture{
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    overflow: hidden;
+}
+#dropdownMenuButton:hover{
+    cursor: pointer;
+}
+#ptp:hover{
+    cursor: pointer;
+}
+.nc-delete, .nc-delete-message{
+    top: 0px;
+    right: 0px;
+}
